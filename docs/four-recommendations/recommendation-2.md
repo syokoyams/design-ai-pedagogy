@@ -21,6 +21,6 @@ As a design and engineering institution, students at SUTD are trained to design 
 
 &nbsp;
 
-![Lecture slide from the Humanistic Design course](/assets/images/humanistic-design-lecture.png)
+![Lecture slide from the Humanistic Design course]({{ site.baseurl }}/assets/images/humanistic-design-lecture.png)
 
 <p style="text-align: center; color: gray;"><em>Image 2: A lecture slide from the "Humanistic Design" course, inviting students to imagine the optimal role of AI in society.</em></p>

@@ -21,6 +21,6 @@ At SUTD, students are also learning by making, sometimes with the aid of AI tool
 
 &nbsp;
 
-![Students' participatory user research in Introduction to Human-Centred Design](/assets/images/hcd-user-research.png)
+![Students' participatory user research in Introduction to Human-Centred Design]({{ site.baseurl }}/assets/images/hcd-user-research.png)
 
 <p style="text-align: center; color: gray;"><em>Image 4: Students' participatory user research informing the prosocial transport solution in the "Introduction to Human-Centred Design" course.</em></p>

@@ -21,6 +21,6 @@ At SUTD, course assignments vary across pillars and clusters, ranging from loggi
 
 &nbsp;
 
-![AI grader used in DTI & iDeA for journey mapping](/assets/images/dti-ai-grader.png)
+![AI grader used in DTI & iDeA for journey mapping]({{ site.baseurl }}/assets/images/dti-ai-grader.png)
 
 <p style="text-align: center; color: gray;"><em>Image 1: A screenshot image of the AI grader used in DTI & iDeA (3.007) for journey mapping.</em></p>
