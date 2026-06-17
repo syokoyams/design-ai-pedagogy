@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Recommendation #1: Diverse, Multi-layered Assessment"
-parent: 4. Four Recommendations for Assessing Design·AI Education
+parent: 4. Four & Five Recommendations for Assessing Design·AI Education
 nav_order: 1
 ---
 

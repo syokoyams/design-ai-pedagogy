@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 9. Authors and Advisors
-nav_order: 10
+title: 10. Authors and Advisors
+nav_order: 11
 ---
 
-# 9.  Authors and Advisors
+# 10.  Authors and Advisors
 
 This guideline is prepared by the Design·AI Education Task Force, with advice from President Professor Phoon Kok Kwang, and the Head of HASS and Programme Director of DAI Professor Yow Wei Quin.
 
@@ -25,5 +25,6 @@ This guideline is prepared by the Design·AI Education Task Force, with advice f
 - Kang Shua Yeo, ASD
 - Tee Hui Teo, EPD
 - Kenny Lu, ISTD
+- Victor Keong, ISTD 
 - Ying Xu, ESD
 - Ee May Kan, DAI
