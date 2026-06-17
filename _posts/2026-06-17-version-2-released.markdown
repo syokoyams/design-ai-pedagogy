@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Version 2.0 Released"
-date: 2026-06-15
+date: 2026-06-17
 categories: updates
 ---
 
 # Version 2.0 Released
 
-*15 June 2026*
+*17 June 2026*
 
 Version 2 of the Guidelines for Design·AI Education is now live. Key updates include:
 
