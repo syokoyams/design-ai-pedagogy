@@ -14,3 +14,9 @@ For enquiries, please contact the co-chairs of the Design·AI Education Task For
 
 - [Setsuko Yokoyama](https://www.sutd.edu.sg/profile/setsuko-yokoyama/), Assistant Professor, HASS — setsuko_yokoyama@sutd.edu.sg
 - [Sumbul Khan](https://www.sutd.edu.sg/profile/sumbul-khan/), Senior Lecturer, SMT — sumbul_khan@sutd.edu.sg
+
+&nbsp;
+
+![Faculty Engagement Session]({{ site.baseurl }}/assets/images/2026-05-29-faculty-engagement.jpeg)
+
+<p style="text-align: center; color: gray;"><em>1st Faculty Engagement Session, 29 May 2026</em></p>
