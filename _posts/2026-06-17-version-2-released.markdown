@@ -15,7 +15,7 @@ Version 2 of the Guidelines for Design·AI Education is now live. Key updates in
     - This new item was added based on the feedback received during the faculty engagement session on May 29th, 2026.
 - **Additional SUTD Resources for Ethical & Responsible AI Use** under Section 7
     - This section is introduced in collaboration with the Office of Education & Innovation.
-- Updated authors and works cited
+- **Updated authors and works cited**
 
 &nbsp;
 
