@@ -23,6 +23,6 @@ Similarly, in 50.003 "Elements of Software Construction" taught by Kenny Lu (IST
 
 &nbsp;
 
-![The Physical AI approach in Structures & Materials]({{ site.baseurl }}/assets/images/structures-materials-physical-ai.png)
+![The Physics-Based AI approach in Structures & Materials]({{ site.baseurl }}/assets/images/structures-materials-physical-ai.png)
 
 <p style="text-align: center; color: gray;"><em>Image 3: The "Physical AI" approach taught in the "Structures & Materials" course.</em></p>

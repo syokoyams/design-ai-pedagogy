@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 9. Disclaimer
+title: 9. In Closing
 nav_order: 10
 ---
 
-# 9.  Disclaimer
+# 9.  In Closing
 
 The main goal of this guideline is to provide useful pedagogical suggestions and recommendations. In particular, the guideline strives to:
 

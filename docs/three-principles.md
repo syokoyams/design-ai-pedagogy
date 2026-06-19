@@ -6,7 +6,7 @@ nav_order: 4
 
 # 3.  Three Principles for Teaching & Learning Design·AI
 
-To collectively achieve the aforementioned missions, SUTD has developed three principles that are central to its Design·AI education. All faculty members are invited to incorporate these principles in their capacity as educators, and in accordance with their disciplinary subject knowledge grounded in academic rigour, as well as in domain expertise gained through collaboration with industry partners (e.g., in healthcare, robotics, cybersecurity, logistics, and the cultural sector). Below are the working definitions of each principle. To see how different pillars and clusters and courses therein might interpret these principles, please consult the SUTD Design·AI Education framework.
+To collectively achieve the aforementioned goals, SUTD has developed three principles that are central to its Design·AI education. All faculty members are invited to incorporate these principles in their capacity as educators, and in accordance with their disciplinary subject knowledge grounded in academic rigour, as well as in domain expertise gained through collaboration with industry partners (e.g., in healthcare, robotics, cybersecurity, logistics, and the cultural sector). Below are the working definitions of each principle. To see how different pillars and clusters and courses therein might interpret these principles, please consult the SUTD Design·AI Education framework.
 
 ## Principle #1:  Human Judgement, Critical Thinking & Ethical Reasoning
 
