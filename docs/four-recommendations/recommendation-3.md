@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Recommendation #3: Teaching Ethical & Effective AI Use"
-parent: 4. Four & Five Recommendations for Assessing Design·AI Education
+parent: 4. Five Recommendations for Assessing Design·AI Education
 nav_order: 3
 ---
 
