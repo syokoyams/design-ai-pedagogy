@@ -14,4 +14,4 @@ In response to the increasing presence of AI in many corners of our society, SUT
 
 - **Critical AI literacy**: critical thinking ability to decide when to develop, use, or set aside AI for a given task.
 
-SUTD's Design·AI Education vision does not replace the technical rigour the school has long championed. In fact, SUTD's curriculum remains, as ever, technically grounded. What Design·AI Education does is to enhance, redefine, and deepen students' human intelligence—grounded in sociocultural wisdom and societal purpose—equipping them to thrive and innovate in the AI era.
+SUTD's Design·AI Education vision does not replace the technical rigour the school has long championed. In fact, SUTD's curriculum remains, as ever, technically grounded. What Design·AI Education does is to enhance, redefine, and deepen students' human intelligence, equipping them to thrive and innovate in the AI era.
