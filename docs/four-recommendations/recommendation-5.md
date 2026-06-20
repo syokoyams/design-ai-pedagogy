@@ -11,7 +11,7 @@ nav_order: 5
 
 **Global Context**
 
-As the initial business hype around AI is increasingly met with critical assessment and safety regulations globally, university instructors are also developing critical AI assignments that define when students ought to employ or set aside AI tools according to specific learning objectives. For example, an instructor at the University of Michigan teaches her students [how to read AI tools' terms of service to instill in them an understanding of the legal contours of privacy policies](https://aipedagogy.org/assignment/close-reading-the-tos/). Educators at the University of Southern California scaffold their annotated bibliography assignments, [detailing when to work independent of, in collaboration with, and in scrutiny of AI throughout the literature review process of research](https://aipedagogy.org/assignment/building-an-annotated-bibliography-with-ai-assistance/).
+As the initial business hype around AI is increasingly met with critical assessment and safety regulations globally, university instructors are also developing critical AI assignments that define when students ought to employ or set aside AI tools according to specific learning objectives.[^12] For example, an instructor at the University of Michigan teaches her students [how to read AI tools' terms of service to instill in them an understanding of the legal contours of privacy policies](https://aipedagogy.org/assignment/close-reading-the-tos/). [^13] Educators at the University of Southern California scaffold their annotated bibliography assignments, [detailing when to work independent of, in collaboration with, and in scrutiny of AI throughout the literature review process of research](https://aipedagogy.org/assignment/building-an-annotated-bibliography-with-ai-assistance/).[^14]
 
 &nbsp;
 
@@ -23,10 +23,16 @@ At SUTD, students also develop their critical AI literacy to know when to develo
 
 <img src="{{ site.baseurl }}/assets/images/applied-data-privacy.png" alt="The dual-path approach in Applied Data Privacy for AI Systems" style="max-width: 80%; display: block; margin: 0 auto;">
 
-<p style="text-align: center; color: gray;"><em>Image 5: The dual-path approach in "Applied Data Privacy for AI Systems" invites students to first develop a foundational understanding independent of AI so that they can subsequently appreciate and leverage AI capabilities.</em></p>
+<p style="text-align: center; color: gray;"><em>The dual-path approach in "Applied Data Privacy for AI Systems" invites students to first develop a foundational understanding independent of AI so that they can subsequently appreciate and leverage AI capabilities.</em></p>
 
 &nbsp;
 
 Similarly, in 10.016 "Science for a Sustainable World," Chandrima Chatterjee (SMT) and her fellow instructors use an individual oral examination within the 1D project on "Sustainable Product Design" to assess and ensure students' understanding of materials' life cycle assessment (LCA). Students are tasked with articulating their own work independent of their groupmates or AI by answering questions about the step-by-step process involved in conducting an LCA of a material, interpreting data, explaining the rationale behind their material selection, and identifying the limitations of such analyses.
 
 Last but not least, Norman Lee (ISTD) has adopted a flexible grading policy in his courses to mitigate students' anxiety about grades, which may otherwise pressure them to use AI to create the appearance of good performance in class. In his 50.001 "Information Systems and Programming" course, for instance, students are given the autonomy to decide how much and how far they want to learn. The problem sets and quizzes provided through our learning management system, eDimension, consist of questions of varying levels of difficulty to suit the full spectrum of student abilities. There are more than 1,000 points available in total, and students achieve full marks for coursework once they achieve 700 points. By removing incentives to bargain for additional marks, students can focus on improving their understanding by attempting the exercises as often as needed.
+
+&nbsp;
+
+[^12]:European Commission (2024), Leo XIV (2026), IMDA (2026).
+[^13]:Cains (c.2023).
+[^14]:Trinh, Natoli, and Barrile (c.2026).

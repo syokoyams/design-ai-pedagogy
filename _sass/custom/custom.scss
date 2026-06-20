@@ -28,4 +28,21 @@
     background-color: #f5f5f5 !important;
   }
 
+  .footnotes {
+    font-size: 14px;
+  }
   
+  .footnotes ol {
+    margin-top: 0 !important;
+  }
+  
+  .footnotes li {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    line-height: 1.4 !important;
+  }
+  
+  .footnotes li p {
+    margin: 0 !important;
+    padding: 0 !important;
+  }

@@ -11,7 +11,13 @@ nav_order: 4
 
 **Global Context**
 
-Other universities teach students to use AI in conjunction with their disciplinary and domain expertise, so that they can help develop creative solutions to pressing societal challenges. For example, Arizona State University provided students with an institutional license so that they can create custom GPTs to apply their knowledge for the greater good in society, [such as addressing the sustainability question in fashion industries](https://tech.asu.edu/features/putting-ai-fashion). Indeed, an international study conducted by fashion researchers in Korea—and many similar studies in different fields—led to the development of a pedagogical framework that illustrates how best to incorporate AI tools, such as large language models, image generators, simulations, and feedback systems, to enhance students' creative thinking.
+Other universities teach students to use AI in conjunction with their disciplinary and domain expertise, so that they can help develop creative solutions to pressing societal challenges. For example, Arizona State University provided students with an institutional license so that they can create custom GPTs to apply their knowledge for the greater good in society, [such as addressing the sustainability question in fashion industries](https://tech.asu.edu/features/putting-ai-fashion).[^10] Indeed, an international study conducted by fashion researchers in Korea—and many similar studies in different fields—led to the development of a pedagogical framework that illustrates how best to incorporate AI tools, such as large language models, image generators, simulations, and feedback systems, to enhance students' creative thinking.[^11]
+
+&nbsp;
+
+![Students' participatory user research in Introduction to Human-Centred Design]({{ site.baseurl }}/assets/images/hcd-user-research.png)
+
+<p style="text-align: center; color: gray;"><em>Students' participatory user research informing the prosocial transport solution in the "Introduction to Human-Centred Design" course.</em></p>
 
 &nbsp;
 
@@ -21,6 +27,5 @@ At SUTD, students are also learning by making, sometimes with the aid of AI tool
 
 &nbsp;
 
-![Students' participatory user research in Introduction to Human-Centred Design]({{ site.baseurl }}/assets/images/hcd-user-research.png)
-
-<p style="text-align: center; color: gray;"><em>Image 4: Students' participatory user research informing the prosocial transport solution in the "Introduction to Human-Centred Design" course.</em></p>
+[^10]:Muñoz (2025).
+[^11]:An and Park (2026).
